@@ -19,7 +19,7 @@ if(debug){
     };
     jl.Fn= {
         init: function () {},
-        GLOBAL_OBJ:I,
+        GLOBAL_OBJ:{},
         jl:version,
         pixiJL:jl,
         debug:debug,
